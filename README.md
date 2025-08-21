@@ -64,6 +64,12 @@ The system predicts whether a customer will **repay** or **default** on their lo
 
 ---
 
+##  Author
+
+**Vikas Sachan** — Data Science enthusiast analyzing Loan Default Risk Prediction System.  
+Based in Kanpur, upskilling one visual at a time.
+
+---
 ## 🚀 How to Run  
 
 1️⃣ Clone the repository  
